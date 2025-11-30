@@ -1,0 +1,452 @@
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/17c69435-983ac9cd33de50e2.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\17c69435-983ac9cd33de50e2.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/1988a2b6-724fe6610f4cfc4c.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\1988a2b6-724fe6610f4cfc4c.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/2295-eae4525af7e70c47.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\2295-eae4525af7e70c47.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/4034-d564d0c245614134.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\4034-d564d0c245614134.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/55fae009-d2f8e54b0ff4d8a7.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\55fae009-d2f8e54b0ff4d8a7.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/5862a045-7f5947710223262d.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\5862a045-7f5947710223262d.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/632abcf6-daa6336b356f7adc.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\632abcf6-daa6336b356f7adc.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/8e04e354-a2616e486b6d9521.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\8e04e354-a2616e486b6d9521.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/9b6c5ff0-df69facb21d7f3ce.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\9b6c5ff0-df69facb21d7f3ce.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/da690673-7462c6c826afa27d.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\da690673-7462c6c826afa27d.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/f7f4f538-fb6ec16b825e758a.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\f7f4f538-fb6ec16b825e758a.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/framework-bc35fa1e5043d0d3.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\framework-bc35fa1e5043d0d3.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/main-c46ae695ab09037f.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\main-c46ae695ab09037f.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/pages/published/[docId]-f21bec694112d3df.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\pages\published\[docId]-f21bec694112d3df.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/pages/_app-436ffaeb35803773.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\pages\_app-436ffaeb35803773.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/chunks/webpack-52153b0628c1ca1b.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\chunks\webpack-52153b0628c1ca1b.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/css/63953018aeb2f914.css
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\css\63953018aeb2f914.css
+Content Type: text/css
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/css/e0c897c4da777827.css
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\css\e0c897c4da777827.css
+Content Type: text/css
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/css/e4f7afdf21385045.css
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\css\e4f7afdf21385045.css
+Content Type: text/css
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/h9xw5YV8PEGao76sWoNFn/_buildManifest.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\h9xw5YV8PEGao76sWoNFn\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/h9xw5YV8PEGao76sWoNFn/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\h9xw5YV8PEGao76sWoNFn\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/circle-left.b2ca2ce2.svg
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\circle-left.b2ca2ce2.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/circle-right.9a77e2f4.svg
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\circle-right.9a77e2f4.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/circle-top.49150ee5.svg
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\circle-top.49150ee5.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_AMS-Regular.1608a09b.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_AMS-Regular.1608a09b.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_AMS-Regular.4aafdb68.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_AMS-Regular.4aafdb68.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_AMS-Regular.a79f1c31.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_AMS-Regular.a79f1c31.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Caligraphic-Bold.b6770918.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Caligraphic-Bold.b6770918.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Caligraphic-Bold.cce5b8ec.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Caligraphic-Bold.cce5b8ec.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Caligraphic-Bold.ec17d132.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Caligraphic-Bold.ec17d132.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Caligraphic-Regular.07ef19e7.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Caligraphic-Regular.07ef19e7.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Caligraphic-Regular.55fac258.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Caligraphic-Regular.55fac258.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Caligraphic-Regular.dad44a7f.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Caligraphic-Regular.dad44a7f.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Fraktur-Bold.9f256b85.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Fraktur-Bold.9f256b85.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Fraktur-Bold.b18f59e1.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Fraktur-Bold.b18f59e1.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Fraktur-Bold.d42a5579.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Fraktur-Bold.d42a5579.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Fraktur-Regular.7c187121.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Fraktur-Regular.7c187121.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Fraktur-Regular.d3c882a6.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Fraktur-Regular.d3c882a6.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Fraktur-Regular.ed38e79f.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Fraktur-Regular.ed38e79f.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Bold.b74a1a8b.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Bold.b74a1a8b.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Bold.c3fb5ac2.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Bold.c3fb5ac2.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Bold.d181c465.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Bold.d181c465.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-BoldItalic.6f2bb1df.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-BoldItalic.6f2bb1df.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-BoldItalic.70d8b0a5.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-BoldItalic.70d8b0a5.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-BoldItalic.e3f82f9d.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-BoldItalic.e3f82f9d.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Italic.47373d1e.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Italic.47373d1e.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Italic.8916142b.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Italic.8916142b.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Italic.9024d815.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Italic.9024d815.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Regular.0462f03b.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Regular.0462f03b.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Regular.7f51fe03.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Regular.7f51fe03.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Main-Regular.b7f8fe9b.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Main-Regular.b7f8fe9b.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Math-BoldItalic.572d331f.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Math-BoldItalic.572d331f.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Math-BoldItalic.a879cf83.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Math-BoldItalic.a879cf83.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Math-BoldItalic.f1035d8d.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Math-BoldItalic.f1035d8d.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Math-Italic.5295ba48.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Math-Italic.5295ba48.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Math-Italic.939bc644.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Math-Italic.939bc644.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Math-Italic.f28c23ac.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Math-Italic.f28c23ac.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Bold.8c5b5494.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Bold.8c5b5494.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Bold.94e1e8dc.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Bold.94e1e8dc.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Bold.bf59d231.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Bold.bf59d231.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Italic.3b1e59b3.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Italic.3b1e59b3.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Italic.7c9bc82b.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Italic.7c9bc82b.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Italic.b4c20c84.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Italic.b4c20c84.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Regular.74048478.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Regular.74048478.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Regular.ba21ed5f.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Regular.ba21ed5f.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_SansSerif-Regular.d4d7ba48.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_SansSerif-Regular.d4d7ba48.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Script-Regular.03e9641d.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Script-Regular.03e9641d.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Script-Regular.07505710.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Script-Regular.07505710.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Script-Regular.fe9cbbe1.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Script-Regular.fe9cbbe1.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size1-Regular.e1e279cb.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size1-Regular.e1e279cb.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size1-Regular.eae34984.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size1-Regular.eae34984.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size1-Regular.fabc004a.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size1-Regular.fabc004a.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size2-Regular.57727022.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size2-Regular.57727022.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size2-Regular.5916a24f.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size2-Regular.5916a24f.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size2-Regular.d6b476ec.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size2-Regular.d6b476ec.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size3-Regular.9acaf01c.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size3-Regular.9acaf01c.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size3-Regular.a144ef58.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size3-Regular.a144ef58.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size3-Regular.b4230e7e.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size3-Regular.b4230e7e.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size4-Regular.10d95fd3.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size4-Regular.10d95fd3.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size4-Regular.7a996c9d.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size4-Regular.7a996c9d.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Size4-Regular.fbccdabe.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Size4-Regular.fbccdabe.ttf
+Content Type: font/ttf
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Typewriter-Regular.6258592b.woff
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Typewriter-Regular.6258592b.woff
+Content Type: font/woff
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Typewriter-Regular.a8709e36.woff2
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Typewriter-Regular.a8709e36.woff2
+Content Type: font/woff2
+
+Uri: https://assets.gammahosted.com/hzgj3mdjz/_next/static/media/KaTeX_Typewriter-Regular.d97aaf4a.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\hzgj3mdjz\_next\static\media\KaTeX_Typewriter-Regular.d97aaf4a.ttf
+Content Type: font/ttf
+
+Uri: https://cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site/lesson-1
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\lesson-1.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Bricolage Grotesque:wght@200;300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\css2-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\bricolagegrotesque\v9\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvcXlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\bricolagegrotesque\v9\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvfzlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\bricolagegrotesque\v9\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\bricolagegrotesque\v9\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvSniyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\bricolagegrotesque\v9\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvUXiyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvZviyM0.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\bricolagegrotesque\v9\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvZviyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvZvlyM0.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\bricolagegrotesque\v9\3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvZvlyM0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:1200/https:/cdn.gamma.app/9f3xtoydrjmj0eo/generated-images/weRDRe_QUTsGpahDRJHQp.png
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\resize\quality80\resizing_typefit\width1200\https\cdn.gamma.app\9f3xtoydrjmj0eo\generated-images\weRDRe_QUTsGpahDRJHQp.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https:/cdn.gamma.app/zi75kkk0houe8t6/generated-images/4rx9SFJFjhwp8xfCl7KFf.png
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\resize\quality80\resizing_typefit\width2000\https\cdn.gamma.app\zi75kkk0houe8t6\generated-images\4rx9SFJFjhwp8xfCl7KFf.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https:/cdn.gamma.app/zi75kkk0houe8t6/generated-images/CgzYyeIMQ5w1MR2tXC1ID.png
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\resize\quality80\resizing_typefit\width2000\https\cdn.gamma.app\zi75kkk0houe8t6\generated-images\CgzYyeIMQ5w1MR2tXC1ID.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https:/cdn.gamma.app/zi75kkk0houe8t6/generated-images/f9E-pChTGYIKumlIKIxjH.png
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\resize\quality80\resizing_typefit\width2000\https\cdn.gamma.app\zi75kkk0houe8t6\generated-images\f9E-pChTGYIKumlIKIxjH.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https:/cdn.gamma.app/zi75kkk0houe8t6/generated-images/rIJwnkBUkk_6Vh9x6HGA_.png
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\resize\quality80\resizing_typefit\width2000\https\cdn.gamma.app\zi75kkk0houe8t6\generated-images\rIJwnkBUkk_6Vh9x6HGA_.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2000/https:/cdn.gamma.app/zi75kkk0houe8t6/generated-images/UG1xCPIyffRVLRmnku4tn.png
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\resize\quality80\resizing_typefit\width2000\https\cdn.gamma.app\zi75kkk0houe8t6\generated-images\UG1xCPIyffRVLRmnku4tn.png
+Content Type: image/png
+
+Uri: https://imgproxy.gamma.app/resize/quality:80/resizing_type:fit/width:2400/https:/cdn.gamma.app/zc87vhr30n8uf3n/8e42af552dd64357a8f7b416c1162eb9/original/malloops_A_pattern_of_white_and_gold_liquid_swirls_on_an_all-wh_cd39af0e-78fa-4e88-ad40-d7cc51f267c4.png
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\resize\quality80\resizing_typefit\width2400\https\cdn.gamma.app\zc87vhr30n8uf3n\8e42af552dd64357a8f7b416c1162eb9\original\malloops_A_pattern_of_white_and_gold_liquid_swirls_on_an_all-wh_.png
+Content Type: image/png
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015
+File Name: C:\Downloaded Web Sites\cong-nghe-ai-va-tam-nhin-0vi5ebn.gamma.site\beacon.min.js\vcd15cbe7772f49c399c6a5babf22c1241717689176015
+Content Type: text/javascript
+
